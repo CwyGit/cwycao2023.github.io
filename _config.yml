@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: 
 date_format: "ordinal"
 title: 记录等于发生
 subtitle: "记录就在积累，积累就是量变，量变必然质变"
