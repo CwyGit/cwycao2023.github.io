@@ -1,14 +1,14 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-baseurl:
-url: https://mazhuang.org
+baseurl: ""
+url: ""
 date_format: "ordinal"
-title: 记录等于发生
+title: "记录等于发生"
 subtitle: "记录就在积累，积累就是量变，量变必然质变"
 description: "嵌入式自学开源项目，分享和记录嵌入式学习的全栈技术"
-keywords: 嵌入式, 全栈, 学习学习再学习, 记录, 程序员
-timezone: Asia/Shanghai
+keywords: "嵌入式, 全栈, 学习学习再学习, 记录, 程序员"
+timezone: "Asia/Shanghai"
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2013
