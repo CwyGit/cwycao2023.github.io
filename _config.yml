@@ -145,11 +145,10 @@ comments_provider: giscus
 # !!!重要!!! 请修改下面这些信息为你自己申请的
 # !!!Important!!! Please modify infos below to yours
 # giscus 配置参考：https://giscus.app/zh-CN
-
-   repo: CwyGit/cwycao2023-blog-comments
-    repo-id: R_kgDOK0b6cA
-    category: Announcements
-    category-id: DIC_kwDOK0b6cM4CbbJA
+repo: CwyGit/cwycao2023-blog-comments
+repo-id: R_kgDOK0b6cA
+category: Announcements
+category-id: DIC_kwDOK0b6cM4CbbJA
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
